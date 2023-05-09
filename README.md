@@ -11,6 +11,7 @@ I'm Currently working on CPdEV
 ![](https://github-readme-stats.vercel.app/api?username=utsxvrai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=utsxvrai&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsxvrai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=utsxvrai)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
