@@ -12,7 +12,8 @@ I am a Competitive Programmer.
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=utsxvrai&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=utsxvrai&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=utsxvrai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=utsxvrai)](https://github.com/utsxvrai/github-readme-stats)
+username=utsxvrai&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=utsxvrai)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
