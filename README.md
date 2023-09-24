@@ -76,5 +76,6 @@
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+![utsxvrai's Stats](https://github-readme-stats.vercel.app/api?username=utsxvrai&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ###
