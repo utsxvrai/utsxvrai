@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color: #00ff00">Hi 👋, I'm Utsav Rai</span>
+  <span style="color: #00ffff">Hi 👋, I'm Utsav Rai</span>
 </h1>
 <h3 align="center">{ "CPDev": "Exploring the World of Open Source with a Linux Shell Scripting"}</h3>
 
