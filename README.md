@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Utsav Rai</h1>
+<h1 align="center">
+  <span style="color: #00ff00">Hi 👋, I'm Utsav Rai</span>
+</h1>
 <h3 align="center">{ "CPDev": "Exploring the World of Open Source with a Linux Shell Scripting"}</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utsxvrai&label=Profile%20views&color=0e75b6&style=flat" alt="utsxvrai" /> </p>
