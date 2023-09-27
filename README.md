@@ -1,8 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-# 💫 About Me:
-I'm Currently exploring Open Source.
-I am a Competitive Programmer.
+<h1 align="center">Hi 👋, I'm Shahriar Sajeeb</h1>
+<h3 align="center">A software developer from Bihar , **Bharat**<img src="indian-flag-icon.png" alt="Indian Flag" height="20"></h3>
 
 
 
