@@ -12,11 +12,9 @@
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <h2>GitHub Stats</h2>
     <img src="https://github-readme-stats.vercel.app/api?username=utsxvrai&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
   </div>
   <div>
-    <h2>GitHub Streak Stats</h2>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsxvrai&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   </div>
 </div>
