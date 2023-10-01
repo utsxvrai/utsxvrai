@@ -1,5 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-[![An image of @utsxvrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akadeepesh)](https://holopin.io/@utsxvrai)
+[![An image of @utsxvrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utsxvrai)](https://holopin.io/@utsxvrai)
 
 
 <h1 align="center">Hi 👋, I'm Utsav Rai</h1>
