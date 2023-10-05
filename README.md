@@ -31,6 +31,8 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=Redis&logoColor=white)
 ![.env](https://img.shields.io/badge/.ENV-ECD53F.svg?style=for-the-badge&logo=dotenv&logoColor=black)
 ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C.svg?style=for-the-badge&logo=Manjaro&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-FFD500.svg?style=for-the-badge&logo=Shell&logoColor=black)
 
 ## 📊 GitHub Stats
 <div style="display: flex; justify-content: space-between;">
