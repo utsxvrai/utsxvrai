@@ -54,6 +54,6 @@
 
 ## Hacktoberfest'23
 
-[![An image of @utsxvrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utsxvrai)](https://holopin.io/@utsxvrai)
+[![An image of @utsxvrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/utsxvrai)](https://holopin.io/@utsxvrai) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
