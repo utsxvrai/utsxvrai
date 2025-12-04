@@ -1,5 +1,8 @@
 <div align="center">
 
+[![Resume](https://img.shields.io/badge/Resume-%23000000.svg?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1pNnJ8iWeHyPnJWzA0-NylbJyVA-M0iC_/view?usp=sharing)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23121212.svg?logo=vercel&logoColor=white)](https://utsav-rai.vercel.app/)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=black)](https://leetcode.com/u/Kalki21/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231F8ACB.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/cr7bit)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%235B4638.svg?logo=codechef&logoColor=white)](https://www.codechef.com/users/cr7bit)
