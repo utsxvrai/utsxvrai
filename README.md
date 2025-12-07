@@ -12,4 +12,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/utsxvrai)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cr7bit#4097)
 
+Building : [[GrindTech](https://grindtech.vercel.app/)]
+
 </div>
