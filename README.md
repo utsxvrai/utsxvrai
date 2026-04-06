@@ -13,6 +13,5 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cr7bit#4097)
 
 Building : [GrindTech](https://grindtech.vercel.app/)
-https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utsxvrai&theme=chartreuse_dark
-
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=utsxvrai&theme=chartreuse_dark)
 </div>
