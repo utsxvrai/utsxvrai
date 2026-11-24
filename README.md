@@ -95,20 +95,26 @@ request ─▶ router ─┬─▶ Gemini
 
 ## 🌍 Open source
 
-Recently fixing bugs across the TypeScript / Node / LLM-tooling ecosystem.
+Fixing bugs across the Node / TypeScript / LLM-tooling ecosystem — **11 PRs merged** so far.
 
 | | Repo | What |
 |---|---|---|
-| ✅ merged | [prapaa-ai/agav](https://github.com/prapaa-ai/agav/pull/848) | `grep_search` context lines for an AI coding agent |
+| ✅ merged | [redis/ioredis](https://github.com/redis/ioredis/pull/2300) | malformed RESP no longer leaks into the next command's reply |
+| ✅ merged | [OrchestratorInc/agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator/pull/8803) | Antigravity Terminal → Chat switch no longer fails on replayed history |
+| ✅ merged | [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym/pull/1433) | JEFIT import reads real exports with hash-padded headers (ships in 1.4.6) |
+| ✅ merged | [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice/pull/2909) | exact point-based line spacing in paragraph formats and styles |
 | ✅ merged | [elie222/rakazo](https://github.com/elie222/rakazo/pull/6198) | blank taught-skill names fall back to the goal |
+| ✅ merged | [ardia-browser/ardia](https://github.com/ardia-browser/ardia/pull/3320) | toolbar badges round long counts instead of cutting them |
+| ✅ merged | [netlify/cli](https://github.com/netlify/cli/pull/11604) | broken CONTRIBUTING link in the PR template |
+| ✅ merged | [reticlehq/reticle](https://github.com/reticlehq/reticle/pull/2440) | detached tabs no longer reported as "SDK missing" |
+| 👍 approved | [nodejs/undici](https://github.com/nodejs/undici/pull/6242) | unsolicited `100 Continue` no longer kills the socket |
+| 👍 approved | [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes/pull/8364) | `check` no longer flags text painted by a visible text-shadow |
+| 🔍 in review | [PostHog/posthog](https://github.com/PostHog/posthog/pull/140889) | OpenAI long-context generations priced at long-context rates |
+| 🔍 in review | [PostHog/posthog-js](https://github.com/PostHog/posthog-js/pull/5860) | n>1 OpenAI chat streams no longer merge their choices |
 | 🔍 in review | [prisma/orm](https://github.com/prisma/orm/pull/31160) | dedupe repeated values in `IN` lists |
-| 🔍 in review | [sequelize/sequelize](https://github.com/sequelize/sequelize/pull/18627) | nullable `TIMESTAMP` on MySQL/MariaDB |
-| 🔍 in review | [redis/ioredis](https://github.com/redis/ioredis/pull/2300) | malformed RESP no longer leaks into the next reply |
-| 🔍 in review | [bitwarden/clients](https://github.com/bitwarden/clients/pull/24940) | `bw serve` send list stale after sync |
 | 🔍 in review | [meteor/meteor](https://github.com/meteor/meteor/pull/15021) | failed ChangeStream start no longer crashes the server |
-| 🔍 in review | [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki/pull/1154) | duplicate front-matter key wiped every field |
 
-<sub>…plus open PRs in svelte language-tools, yarn berry, isomorphic-git, loopback-next, infisical and more — <a href="https://github.com/pulls?q=is%3Apr+author%3Autsxvrai+is%3Apublic">see all</a>.</sub>
+<sub>…plus merges in agav, neo-agent-brain, breakinggood and open PRs in sequelize, bitwarden, stdlib, nanocoder, cli-microsoft365 and more — <a href="https://github.com/pulls?q=is%3Apr+author%3Autsxvrai+is%3Apublic+-org%3Akutumbtech">see all</a>.</sub>
 
 <!-- ═══════════════════════════  BUILDS  ═══════════════════════════ -->
 
